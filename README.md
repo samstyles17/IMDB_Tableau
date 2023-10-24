@@ -7,3 +7,8 @@ Link for the dataset - [https://www.kaggle.com/datasets/harshitshankhdhar/imdb-d
 The dashboard has been published on Tableau Public - [https://public.tableau.com/app/profile/harsh.singh5765/viz/IMDBAnalysis_16980672780060/IMDBDashboard?publish=yes](https://public.tableau.com/app/profile/harsh.singh5765/viz/IMDBAnalysis_16980672780060/IMDBDashboard?publish=yes)
 
 Following are the screenshots  of the work - 
+[Image 1](https://github.com/samstyles17/IMDB_Tableau/blob/main/tableau1.png)
+
+[Image 2](https://github.com/samstyles17/IMDB_Tableau/blob/main/tableau2.png)
+
+[Image 3](https://github.com/samstyles17/IMDB_Tableau/blob/main/tableau3.png)
